@@ -1,0 +1,76 @@
+# general settings
+auto-reload yes
+max-items 47
+download-full-page yes
+
+# unbind keys
+unbind-key q
+unbind-key t
+unbind-key ,
+
+# bind keys - vim style
+bind-key j down
+bind-key LEFT quit
+bind-key c macro-prefix
+
+# solarized
+color background yellow default
+color listnormal white default
+color listnormal_unread white default
+color listfocus black red reverse
+#color listfocus red white reverse bold
+color listfocus_unread red white reverse bold
+#color listfocus_unread red default
+color info cyan color17
+color article white default
+
+
+# highlights
+highlight article "^(Title):.*$" cyan default bold
+highlight article "https?://[^ ]+" cyan default
+highlight article "\\[image\\ [0-9]+\\]" green default
+#highlight-article "age < 3 and unread == \"yes\"" green red
+
+# New Theme
+#color background         default   default
+#color listnormal         yellow   default
+#color listnormal_unread  yellow   default
+#color listfocus          black     red
+#color listfocus_unread   black     red
+#color info               default   black
+#color article            default   default
+
+# highlights
+#highlight article "^(Title):.*$" yellow default
+#highlight article "https?://[^ ]+" cyan default
+#highlight article "\\[image\\ [0-9]+\\]" green default
+
+
+#feedlist-format     "%4i %n %11u %t"
+feedlist-format     "%n | %11u | %t |"
+articlelist-format  "%f | %D | %?T?|%-17T| | ?%t"
+
+#macro v set browser "setsid -f mpv --really-quiet --no-terminal" ; open-in-browser ; set browser brave
+
+browser linkhandler
+macro , open-in-browser
+macro a set browser "mpv --no-video %u " ; open-in-browser ; set  browser linkhandler
+#macro v set browser "nohup mpv --ytdl-format 720 --fs %u &>/dev/null &" ; open-in-browser ; set  browser linkhandler
+macro b set browser "w3m -o confirm_qq=false -o image_scale=50%" ; open-in-browser ; set browser linkhandler 
+#macro q set browser "w3m %u -o confirm_qq=false -o image_scale=50% -o color=yes frame=yes -o anchor_color=white &" ; open-in-browser ; set browser linkhandler
+#macro v set browser "setsid -f mpv --ytdl-format="bestvideo[height=?720][fps<=?30][vcodec!=?vp9]+bestaudio/best" -fs %u " ; open-in-browser ; set  browser linkhandler
+macro v set browser "mpv -fs --ytdl-format='bestvideo[ext=mp4][width<=1920][height<=1080]+bestaudio[ext=m4a]'  %u" ; open-in-browser ; set browser "elinks %u"
+#macro p set browser "termux-open" ; open-in-browser ; set browser linkhandler
+#macro p set browser "am start -n am start -n br.marcelo.monumentbrowser/br.marcelo.monumentbrowser.MainActivity" ; open-in-browser ; set browser linkhandler
+#macro l set browser "am start --user 0 -n org.videolan.vlc/org.videolan.vlc.StartActivity" ; open-in-browser ; set browser linkhandler
+#macro y set browser "am start -n com.google.android.youtube/com.google.android.youtube.UrlActivity" ; open-in-browser ; set browser linkhandler
+#macro o set browser "am start -n com.opera.touch/com.opera.touch.MainActivity" ; open-in-browser ; set browser linkhandler
+#macro f set browser "am start -n org.mozilla.firefox/org.mozilla.firefox.App" ; open-in-browser ; set browser linkhandler
+#macro r set browser "am start -n com.andrewshu.android.reddit/com.andrewshu.android.reddit.MainActivity" ; open-in-browser ; set browser linkhandler
+macro h set browser "open -a Safari " ; open-in-browser ; set browser linkhandler
+macro i set browser "timg %u" ; open-in-browser ; set browser linkhandler
+macro t set browser "xterm -fa 'Monospace' -bg black -fg white -fs 11 -fullscreen -ti vt340 -e w3m -o confirm_qq=false -o image_scale=75%" ; open-in-browser ; set browser linkhandler
+macro l set browser "links2 -g %u" ; open-in-browser ; set browser linkhandler
+macro k set browser "chromium-browser --kiosk %u" ; open-in-browser ; set browser linkhandler
+macro c set browser "mpv -fs %u" ; open-in-browser ; set browser "elinks %u"
+macro d set browser "yt-dlp %u -o - | mpv --fs - -force-seekable=yes" ; open-in-browser ; set browser linkhandler
