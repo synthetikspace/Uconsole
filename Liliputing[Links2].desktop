@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Liliputing [Links2]
+Exec=links2 -g www.liliputing.com
+Comment=Liliputing [Links2]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
