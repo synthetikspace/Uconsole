@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Liliputing [Chromium]
+Exec=chromium-browser --kiosk --enable-features=OverlayScrollbar,OverlayScrollbarFlashAfterAnyScrollUpdate,OverlayScrollbarFlashWhenMouseEnter www.liliputing.com
+Comment=Liliputing [Chromium]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
