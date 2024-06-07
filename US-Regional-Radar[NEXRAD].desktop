@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=U.S. Regional Radar[NEXRAD]
+Exec=xterm -fullscreen -fa 'Monospace' -fs 12 -e mpv -fs --loop https://s.w-x.co/staticmaps/wu/wu/wxtype1200_cur/ussat/animate.png
+Comment=U.S. Regional Radar[NEXRAD]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
