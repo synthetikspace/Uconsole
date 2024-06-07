@@ -1,5 +1,10 @@
-xterm -fullscreen -fa 'Monospace' -fs 12 -e newsboat 
-/home/pi/.local/share/applications/alacarte-made-40.desktop
+Uconsole Fullscreen Terminal Exec
 
-xterm -fullscreen -fa 'Monospace' -fs 12 -e pyradio
-/home/pi/.local/share/applications/alacarte-made-41.desktop
+Newsboat
+xterm -fullscreen -fa 'Monospace' -fs 15 -e newsboat
+
+Pyradio
+xterm -fullscreen -fa 'Monospace' -fs 15 -e pyradio
+
+Links2
+links2 -g
