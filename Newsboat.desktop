@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Newsboat
+Exec=xterm -fullscreen -fa 'Monospace' -fs 15 -e newsboat
+Comment=Newsboat
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
