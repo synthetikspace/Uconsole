@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cointop
+Exec=xterm -fullscreen -fa 'Monospace' -fs 15 -e ssh cointop.sh
+Comment=Cointop
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
