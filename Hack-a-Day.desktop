@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hack-a-Day [Chromium]
+Exec=chromium-browser --start-fullscreen www.hackaday.com
+Comment=Hack-a-Day
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
