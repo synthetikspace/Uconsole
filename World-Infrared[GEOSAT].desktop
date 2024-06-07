@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=World Infrared[GEOSAT]
+Exec=xterm -fullscreen -fa 'Monospace' -fs 12 -e mpv -fs --loop https://s.w-x.co/staticmaps/wu/wu/satir1200_cur/world/animate.png
+Comment=World Infrared[GEOSAT]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
