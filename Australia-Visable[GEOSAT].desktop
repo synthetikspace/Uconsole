@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Australia Visable[GEOSAT]
+Exec=xterm -fullscreen -fa 'Monospace' -fs 12 -e mpv -fs --loop https://s.w-x.co/staticmaps/wu/wu/satvs1200_cur/austr/animate.png
+Comment=Australia Visable[GEOSAT]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
