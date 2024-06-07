@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=U.S. Infrared+[GEOSAT]
+Exec=xterm -fullscreen -fa 'Monospace' -fs 12 -e mpv -fs --loop https://s.w-x.co/staticmaps/wu/wu/satir1200_cur/conus/animate.png
+Comment=U.S. Infrared+[GEOSAT]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
