@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PyRadio
+Exec=xterm -fullscreen -fa 'Monospace' -fs 15 -e pyradio
+Comment=Pyradio
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
