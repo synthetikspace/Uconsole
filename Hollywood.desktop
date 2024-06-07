@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hollywood
+Exec=xterm -fullscreen -fa 'Monospace' -fs 8 -e hollywood -s 0 -d 10
+Comment=Hollywood
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
