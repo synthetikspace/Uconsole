@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hack-a-Day [Links2]
+Exec=links2 -g www.hackaday.com
+Comment=Hack-a-Day [Links2]
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
