@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cmatrix
+Exec=xterm -fullscreen -fa 'Monospace' -fs 7 -e cmatrix -b
+Comment=Cmatrix
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
