@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=YouTube [Chromium]
+Exec=chromium-browser --kiosk --enable-features=OverlayScrollbar,OverlayScrollbarFlashAfterAnyScrollUpdate,OverlayScrollbarFlashWhenMouseEnter www.youtube.com
+Comment=
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application
