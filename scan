@@ -1,0 +1,1 @@
+rtl_fm -M fm -l 55 -g 80 -A lut -s 22050 -f 929.6125M -f 929.6625M -f 930.6375M -f 931.5125M - | multimon-ng -t  raw -e -v0 -a FLEX -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -a EAS -x -y -u -f alpha - | cut -c 41-
