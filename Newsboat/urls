@@ -46,14 +46,26 @@ https://hackernoon.com/feed "~Hacker Noon              " "Hacking"
 https://www.kitploit.com//feeds/posts/default "~KitPloit                 " "Hacking"
 https://latesthackingnews.com/feed/ "~Latest Hacking News      " "Hacking"
 https://www.reddit.com/r/hacking/.rss?format=xml "~Reddit - Hacking         " "Hacking"
-
+•----------------------•BIGTHINK•-------------------•
+https://www.bigthink.com/feed/	"~Big Think                                            " "BigThink" "News"
+https://bigthink.com/feed/neuropsych/ "~Big Think - NeuroPsych                               " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/smart-skills/ "~Big Think - Smart-Skills                             " "BigThink Smart-Skills" "News"
+https://bigthink.com/feed/thinking/ "~Big Think - Thinking                                 " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/the-past/ "~Big Think - The Past                                 " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/the-present/ "~Big Think - The Present                              " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/the-future/ "~Big Think - The Future                               " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/life/ "~Big Think - Life                                     " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/health/ "~Big Think - Health                                   " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/hard-science/ "~Big Think - Hard Science                             " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/high-culture/ "~Big Think - High Culture                             " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/leadership/ "~Big Think - Leedership                               " "BigThink NeuroPsych" "News"
+https://bigthink.com/feed/all/ "~Big Think - Everyday Philosophy            " "BigThink Everyday Philosophy" "News"
 •-----------------------•ALT•-----------------------•
 https://www.reddit.com/r/collapse/.rss?format=xml "~Collapse                                     - Reddit
 https://www.reddit.com/r/conspiracy/.rss?format=xml "~Conspiracy                                   - Reddit
 https://www.reddit.com/r/FalseFlagWatch/.rss?format=xml "~False Flag Watch                             - Reddit
 https://www.reddit.com/r/NSALeaks/.rss?format=xml "~NSA Leaks                                    - Reddit
 https://www.reddit.com/r/SocialEngineering/.rss?format=xml "~Social Enginerring                           - Reddit
-
 •---------------------•TWITTER•---------------------•
 https://nitter.snopyta.org/search/rss?f=tweets&q=devterm "~Devterm Hashtag          " "Twitter" "Devterm"
 https://nitter.snopyta.org/search/rss?f=tweets&q=flipperzero "~FlipperZero Hashtag      " "Twitter" "Devterm"
