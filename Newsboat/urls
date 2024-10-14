@@ -1,6 +1,5 @@
 https://wordsmith.org/awad/rss2.xml 						"~Word Of The Day    ------------------------------------------    WORD OF THE DAY    --" "REDDIT"
-""
-•------------------------•NEWS•---------------------•
+										•                                       •NEWS•                                         •
 https://nitter.snopyta.org/search/rss?f=tweets&q=breakingnews			"~Breaking News Hashtag    -----------------------------------------------    NEWS    --" "NEWS"
 http://feeds.bbci.co.uk/news/world/rss.xml					"~BBC - World News    ----------------------------------------------------    NEWS    --" "NEWS"
 http://xml.nfowars.net/Alex.rss							"~Info Wars - Daily Podcasts    ------------------------------------------    NEWS    --" "NEWS"
@@ -21,8 +20,7 @@ https://nitter.snopyta.org/ATXScan/rss 						"~ATX Scan    ---------------------
 https://nitter.snopyta.org/EndGameWW3/rss 					"~EndGameWW3    ----------------------------------------------------------    NEWS    --" "Twitter" "WW3"
 https://vidmax.com/rss 								"~VidMax    --------------------------------------------------------------    NEWS    --" "VidMax" "Video"
 https://www.bitchute.com/feeds/rss/channel/pauljosephwatson/ 			"~Bitchute Paul Joeseph Watson    ----------------------------------------    NEWS    --" "VidMax" "Video"
-""
-•----------------------•BIGTHINK•-------------------•
+										•                                     •BIGTHINK•                                       •
 https://www.bigthink.com/feed/							"~Big Think    -------------------------------------------------------    BIGTHINK    --" "BigThink"
 https://bigthink.com/feed/neuropsych/ 						"~Big Think - NeuroPsych    ------------------------------------------    BIGTHINK    --" "BigThink NeuroPsych" "News"
 https://bigthink.com/feed/smart-skills/ 					"~Big Think - Smart-Skills    ----------------------------------------    BIGTHINK    --" "BigThink Smart-Skills" "News"
@@ -35,8 +33,7 @@ https://bigthink.com/feed/health/ 						"~Big Think - Health    ----------------
 https://bigthink.com/feed/hard-science/ 					"~Big Think - Hard Science    ----------------------------------------    BIGTHINK    --" "BigThink NeuroPsych" "News"
 https://bigthink.com/feed/high-culture/						"~Big Think - High Culture    ----------------------------------------    BIGTHINK    --" "BigThink NeuroPsych" "News"
 https://bigthink.com/feed/leadership/						"~Big Think - Leedership    ------------------------------------------    BIGTHINK    --" "BigThink NeuroPsych" "News"
-""
-•------------------------•TECH•---------------------•
+										•                                       •TECH•                                         •
 https://www.reddit.com/r/CyberDeck/.rss?format=xml				"~CyberDeck    -----------------------------------------------------------    TECH    --" "Tech"
 https://forum.clockworkpi.com/latest.rss					"~Clockworkpi Forums    --------------------------------------------------    TECH    --" "Tech"
 https://www.reddit.com/r/commandline/.rss?format=xml				"~Command Line    --------------------------------------------------------    TECH    --" "Tech"
@@ -52,8 +49,7 @@ https://www.reddit.com/r/RASPBERRY_PI_PROJECTS.rss				"~Raspberry Pi Projects   
 https://www.rdforum.org/forums/11/feed/rss					"~Radar Detector & Countermeasure Forum    -------------------------------    TECH    --" "Tech"
 https://www.wired.com/feed/rss							"~Wired    ---------------------------------------------------------------    TECH    --" "Tech"
 https://xerbo.net/posts/index.xml						"~Xerbo    ---------------------------------------------------------------    TECH    --" "Tech"
-""
-•---------------------•HACKING•---------------------•
+										•                                      •HACKING•                                       •
 https://www.2600.com/rss.xml 							"~2600 - Hacker Quarterly    ------------------------------------------    HACKING    --" "Hacking"
 https://www.youtube.com/feeds/videos.xml?user=BlackHatOfficialYT		"~Black Hat Official    -----------------------------------------------    HACKING    --" "Hacking"
 https://feeds.feedburner.com/darknethackers					"~Darknet Hackers    --------------------------------------------------    HACKING    --" "Hacking"
@@ -64,15 +60,13 @@ https://hackernoon.com/feed							"~Hacker Noon    -----------------------------
 https://www.kitploit.com//feeds/posts/default					"~KitPloit    ---------------------------------------------------------    HACKING    --" "Hacking"
 https://latesthackingnews.com/feed/						"~Latest Hacking News    ----------------------------------------------    HACKING    --" "Hacking"
 https://www.reddit.com/r/hacking/.rss?format=xml				"~Reddit - Hacking    -------------------------------------------------    HACKING    --" "Hacking"
-""
-•-----------------------•ALT•-----------------------•
+										•                                       •REDDIT•                                        •
 https://www.reddit.com/r/collapse/.rss?format=xml				"~Collapse    ----------------------------------------------------------    REDDIT    --" "REDDIT"
 https://www.reddit.com/r/conspiracy/.rss?format=xml				"~Conspiracy    --------------------------------------------------------    REDDIT    --" "REDDIT"
 https://www.reddit.com/r/FalseFlagWatch/.rss?format=xml				"~False Flag Watch    --------------------------------------------------    REDDIT    --" "REDDIT"
 https://www.reddit.com/r/NSALeaks/.rss?format=xml				"~NSA Leaks    ---------------------------------------------------------    REDDIT    --" "REDDIT"
 https://www.reddit.com/r/SocialEngineering/.rss?format=xml			"~Social Enginerring    ------------------------------------------------    REDDIT    --" "REDDIT"
 https://reddit.0qz.fun/r/CyberDeck.json 					"~CyberDeck    ---------------------------------------------------------    REDDIT    --" "REDDIT"
-""
 •---------------------•TWITTER•---------------------•
 https://nitter.snopyta.org/search/rss?f=tweets&q=devterm			"~Devterm Hashtag          " "Twitter" "Devterm"
 https://nitter.snopyta.org/search/rss?f=tweets&q=flipperzero			"~FlipperZero Hashtag      " "Twitter" "Devterm"
@@ -84,8 +78,7 @@ https://nitter.snopyta.org/IfNotPike/rss					"~Bad-radio.solutions      " "Twitt
 https://nitter.snopyta.org/search/rss?f=tweets&q=clockwork+devterm		"~Clockwork Devterm        " "Twitter" "Hashtag"
 https://nitter.snopyta.org/softwincn/rss					"~GPD Game Consoles        " "Twitter" "GPD"
 https://nitter.snopyta.org/ViolenceWorks/rss					"~Violence Works           " "Twitter" "Terminal"
-""
-•---------------------•YOUTUBE•---------------------•
+										•                                      •YOUTUBE•                                       •
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_7vFlErTHxVD-IFNB-BFCg 	"~America Uncovered    ----------------------------------------------------    NEWS    --" "YOUTUBE"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCA071Pllf2wk-B8Rkwt47bQ 	"~Anonymous Official    ---------------------------------------------------    NEWS    --" "YOUTUBE"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCySjheRcVJ21B3Jo3HcWMTQ 	"~Antenna Man    ------------------------------------------------------------   SDR    --" "YOUTUBE"
@@ -125,15 +118,13 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCe02lGcO-ahAURWuxAJnjdA 	"~
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqE3StUeLMfqcDVNgfyuQog 	"~Violence Works    --------------------------------------------------------   TECH    --" "YOUTUBE"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMZjeadL0c2PSix1Gr7mqKw 	"~WhatsHerFace    ----------------------------------------------------------   NEWS    --" "YOUTUBE"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC33w3W3E5v5yUd5mGAr4UsQ 	"~Thelemic Union    ------------------------------------------------------   OCCULT    --" "OCCULT"
-""
-•---------------------•GITHUB•----------------------•
+										•                                      •GITHUB•                                        •
 https://github.com/datagod/meshwatch.atom 					"~Meshtastic    ----------------------------------------------------------   GITHUB    --" "GITHUB"
 https://github.com/eried/portapack-mayhem/releases.atom 			"~Eried - Portapack Mayhem    --------------------------------------------   GITHUB    --" "GITHUB"
 https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases.atom	"~RogueMaster Flipper FW    ----------------------------------------------   GITHUB    --" "GITHUB"
 https://github.com/egzumer/uv-k5-firmware-custom/releases.atom			"~UVK5 Custom Firmware    ------------------------------------------------   GITHUB    --" "GITHUB"
 https://github.com/portapack-mayhem/mayhem-firmware/releases.atom		"~Portapack Mayhem    ----------------------------------------------------   GITHUB    --" "GITHUB"
-""
-•--------------------•MAGAZINES•--------------------•
+										•                                     •MAGAZINE•                                       •
 https://nautil.us/feed/ 							"~Nauticus Online Magazine    ------------------------------------------   MAGAZINE    --" "MAGAZINE"
 https://nautil.us/feed/philosophy/ 						"~Nauticus Online Magazine Philisophy    -------------------------------   MAGAZINE    --" "MAGAZINE"
 https://github.com/hehonghui/awesome-english-ebooks/commits.atom 		"~Hehonghui The-Economist-eBooks    ------------------------------------   MAGAZINE    --" "MAGAZINE"
@@ -145,10 +136,8 @@ https://pdfmagazines.club/science/rss.xml 					"~PDF Magazine Club -Science    -
 https://pdfmagazines.club/music/rss.xml 					"~PDF Magazine Club - Music    -----------------------------------------   MAGAZINE    --" "MAGAZINE"
 https://pdfmagazines.club/sci-fi/rss.xml 					"~PDF Magazine Club - Sci-Fi    ----------------------------------------   MAGAZINE    --" "MAGAZINE"
 https://pdfmagazines.club/books/rss.xml 					"~PDF Magazine Club - Books    -----------------------------------------   MAGAZINE    --" "MAGAZINE"
-""
-•--------------------•PODCASTS•---------------------•
+										•                                      •PODCAST•                                       •
 https://feed.podbean.com/whattheshell/feed.xml 					"~What The Shell?    ----------------------------------------------------   PODCAST    --" "PODCAST"
 https://modemmischief.libsyn.com/rss 						"~Modem Mischief    -----------------------------------------------------   PODCAST    --" "PODCAST"
-""
-•---------------------•OCCULT•----------------------•
+										•                                      •OCCULT•                                         •
 https://thelemicunion.com/rss 							"~Thelemic Union ---------------------------------------------------------   OCCULT    --" "OCCULT"
