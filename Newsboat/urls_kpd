@@ -1,6 +1,6 @@
-------------------------NEWS-----------------------
-https://nitter.snopyta.org/search/rss?f=tweets&q=breakingnews			"~Breaking News Hashtag    -----------------------------------------------    NEWS    --" "NEWS"
-http://feeds.bbci.co.uk/news/world/rss.xml					"~BBC - World News    ----------------------------------------------------    NEWS    --" "NEWS"
+-----------------------------NEWS--------------------------
+https://nitter.snopyta.org/search/rss?f=tweets&q=breakingnews			"~Breaking News Hashtag                          NEWS    ---" "NEWS"
+http://feeds.bbci.co.uk/news/world/rss.xml					"~BBC - World News                               NEWS    ---" "NEWS"
 http://xml.nfowars.net/Alex.rss							"~Info Wars - Daily Podcasts    ------------------------------------------    NEWS    --" "NEWS"
 https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml			"~NYTimes Home Page (U.S.)    --------------------------------------------    NEWS    --" "NEWS"
 https://rss.nytimes.com/services/xml/rss/nyt/World.xml				"~NYTimes World    -------------------------------------------------------    NEWS    --" "NEWS"
@@ -142,3 +142,4 @@ https://modemmischief.libsyn.com/rss 						"~Modem Mischief    -----------------
 https://thelemicunion.com/rss 							"~Thelemic Union ---------------------------------------------------------   OCCULT    --" "OCCULT"
 
 https://wordsmith.org/awad/rss2.xml 						"~Word Of The Day    -----------------    WORD OF THE DAY    --" "REDDIT"
+
